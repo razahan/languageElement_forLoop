@@ -1,0 +1,7 @@
+H:\C#\languageElement_CS\languageElement_CS\obj\Debug\languageElement_CS.csprojResolveAssemblyReference.cache
+H:\C#\languageElement_CS\languageElement_CS\obj\Debug\languageElement_CS.csproj.CoreCompileInputs.cache
+H:\C#\languageElement_CS\languageElement_CS\bin\Debug\languageElement_CS.exe.config
+H:\C#\languageElement_CS\languageElement_CS\bin\Debug\languageElement_CS.exe
+H:\C#\languageElement_CS\languageElement_CS\bin\Debug\languageElement_CS.pdb
+H:\C#\languageElement_CS\languageElement_CS\obj\Debug\languageElement_CS.exe
+H:\C#\languageElement_CS\languageElement_CS\obj\Debug\languageElement_CS.pdb
